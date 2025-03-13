@@ -1,0 +1,5 @@
+-e git+ssh://git@github.com/MalvzMK1/ci-with-python.git@9add71b5d3123013af34529bdd3a3d7900e14066#egg=ci_with_python
+iniconfig==2.0.0
+packaging==24.2
+pluggy==1.5.0
+pytest==8.3.5
