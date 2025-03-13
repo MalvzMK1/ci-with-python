@@ -77,3 +77,9 @@ test =
 ```bash
 pip install -e .
 ```
+
+### Running tests
+
+```bash
+pytest
+```
