@@ -1,5 +1,6 @@
 /venv
 /build
+/.tox
 *.egg-info
 .coverage
 __pycache__
