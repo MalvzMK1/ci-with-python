@@ -2,9 +2,11 @@
 
 A comprehensive study repository for implementing modern CI/CD pipelines in Python projects using GitHub Actions.
 
+![Tests](https://github.com/MalvzMK1/ci-with-python/actions/workflows/python-app.yml/badge.svg)
+
 ## Project Architecture
 
-```
+```txt
 ├── .github/
 │   └── workflows/
 │       └── ci.yml           # GitHub Actions workflow definition
