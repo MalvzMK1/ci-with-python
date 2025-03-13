@@ -13,7 +13,6 @@ A comprehensive study repository for implementing modern CI/CD pipelines in Pyth
 │       ├── __init__.py      # Package initialization
 │       └── models.py        # Sample module with testable functions
 ├── tests/                   # Test suite
-│   ├── __init__.py
 │   └── test_user.py         # Unit tests
 │   └── test_course_class.py # Unit tests
 ├── pyproject.toml           # Build system configuration
